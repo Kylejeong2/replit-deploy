@@ -24,8 +24,6 @@ This project defaults to using OpenAI, so it's going to throw a fit if you don't
 
 To use Anthropic (or other LLMs), you'll need to edit [stagehand.config.ts](stagehand.config.ts) to use the appropriate API key.
 
-### Add your API keys
-
 Required API keys/environment variables are in the `.env.example` file. 
 You have to enter these into the Secrets Pane. Docs on how to use that [here](https://docs.replit.com/replit-workspace/workspace-features/secrets).
 
